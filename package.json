@@ -1,0 +1,17 @@
+{
+  "name": "MyStoneBudget",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abbueno/MyStoneBudget.git",
+  "author": "ALLAN BIGHI BUENO <allanbbueno@bol.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
